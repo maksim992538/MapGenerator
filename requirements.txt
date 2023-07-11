@@ -1,0 +1,4 @@
+matplotlib==3.5.2
+numpy==1.22.4
+opencv_python_headless==4.7.0.72
+perlin_noise==1.12

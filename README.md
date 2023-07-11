@@ -1,0 +1,2 @@
+# MapGenerator
+Random map generator
